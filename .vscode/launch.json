@@ -5,25 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": ".NET Core Launch (web)",
-            "type": "coreclr",
+            "name": "Launch and Debug Standalone Blazor WebAssembly App",
+            "type": "blazorwasm",
             "request": "launch",
-            "preLaunchTask": "build",
-            "program": "MyStore/bin/Debug/net6.0/MyStore.dll",
-            "args": [],
-            "cwd": "${workspaceFolder}",
-            "stopAtEntry": false,
-            "serverReadyAction": {
-                "action": "openExternally",
-                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
-            },
-            "env": {
-                "ASPNETCORE_ENVIRONMENT": "Development"
-            },
-            "sourceFileMap": {
-                "/Views": "MyStore/Views"
-            }
+            "cwd": "${workspaceFolder}/MyStore"
         }
-       
     ]
 }
