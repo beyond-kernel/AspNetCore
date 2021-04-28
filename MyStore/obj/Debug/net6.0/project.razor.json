@@ -8,191 +8,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 769457058,
-        "Kind": "Components.Component",
-        "Name": "MyStore.App",
-        "AssemblyName": "MyStore",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyStore.App"
-        }
-      },
-      {
-        "HashCode": 792475728,
-        "Kind": "Components.Component",
-        "Name": "MyStore.App",
-        "AssemblyName": "MyStore",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MyStore.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyStore.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1765160660,
-        "Kind": "Components.Component",
-        "Name": "MyStore.Pages.Counter",
-        "AssemblyName": "MyStore",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyStore.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 960080777,
-        "Kind": "Components.Component",
-        "Name": "MyStore.Pages.Counter",
-        "AssemblyName": "MyStore",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MyStore.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyStore.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -568459504,
-        "Kind": "Components.Component",
-        "Name": "MyStore.Pages.FetchData",
-        "AssemblyName": "MyStore",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyStore.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 1423248451,
-        "Kind": "Components.Component",
-        "Name": "MyStore.Pages.FetchData",
-        "AssemblyName": "MyStore",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MyStore.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyStore.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1021148476,
-        "Kind": "Components.Component",
-        "Name": "MyStore.Pages.Index",
-        "AssemblyName": "MyStore",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyStore.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -275018595,
-        "Kind": "Components.Component",
-        "Name": "MyStore.Pages.Index",
-        "AssemblyName": "MyStore",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MyStore.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyStore.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 308830111,
-        "Kind": "Components.Component",
-        "Name": "MyStore.Shared.SurveyPrompt",
-        "AssemblyName": "MyStore",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyStore.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": 1185888884,
-        "Kind": "Components.Component",
-        "Name": "MyStore.Shared.SurveyPrompt",
-        "AssemblyName": "MyStore",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MyStore.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyStore.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1115885654,
         "Kind": "Components.Component",
         "Name": "MyStore.Shared.MainLayout",
@@ -318,6 +133,224 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "MyStore.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 308830111,
+        "Kind": "Components.Component",
+        "Name": "MyStore.Shared.SurveyPrompt",
+        "AssemblyName": "MyStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyStore.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 1185888884,
+        "Kind": "Components.Component",
+        "Name": "MyStore.Shared.SurveyPrompt",
+        "AssemblyName": "MyStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MyStore.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyStore.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1765160660,
+        "Kind": "Components.Component",
+        "Name": "MyStore.Pages.Counter",
+        "AssemblyName": "MyStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyStore.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 960080777,
+        "Kind": "Components.Component",
+        "Name": "MyStore.Pages.Counter",
+        "AssemblyName": "MyStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MyStore.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyStore.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -568459504,
+        "Kind": "Components.Component",
+        "Name": "MyStore.Pages.FetchData",
+        "AssemblyName": "MyStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyStore.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 1423248451,
+        "Kind": "Components.Component",
+        "Name": "MyStore.Pages.FetchData",
+        "AssemblyName": "MyStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MyStore.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyStore.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1021148476,
+        "Kind": "Components.Component",
+        "Name": "MyStore.Pages.Index",
+        "AssemblyName": "MyStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyStore.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -275018595,
+        "Kind": "Components.Component",
+        "Name": "MyStore.Pages.Index",
+        "AssemblyName": "MyStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MyStore.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyStore.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 849503078,
+        "Kind": "Components.Component",
+        "Name": "MyStore.Pages.Chronometer",
+        "AssemblyName": "MyStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Chronometer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyStore.Pages.Chronometer"
+        }
+      },
+      {
+        "HashCode": -207858742,
+        "Kind": "Components.Component",
+        "Name": "MyStore.Pages.Chronometer",
+        "AssemblyName": "MyStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MyStore.Pages.Chronometer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyStore.Pages.Chronometer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 769457058,
+        "Kind": "Components.Component",
+        "Name": "MyStore.App",
+        "AssemblyName": "MyStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyStore.App"
+        }
+      },
+      {
+        "HashCode": 792475728,
+        "Kind": "Components.Component",
+        "Name": "MyStore.App",
+        "AssemblyName": "MyStore",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MyStore.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyStore.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13111,6 +13144,11 @@
     {
       "FilePath": "c:\\Users\\rafan\\OneDrive\\MyStore\\MyStore\\App.razor",
       "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\rafan\\OneDrive\\MyStore\\MyStore\\Pages\\Chronometer.razor",
+      "TargetPath": "Pages\\Chronometer.razor",
       "FileKind": "component"
     },
     {

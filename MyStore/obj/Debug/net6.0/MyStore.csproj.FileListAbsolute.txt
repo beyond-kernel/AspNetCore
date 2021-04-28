@@ -178,7 +178,6 @@ C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\Syst
 C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
 C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
 C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
-C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
 C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
 C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
 C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
@@ -385,7 +384,6 @@ C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\Syst
 C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
 C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
 C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
-C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
 C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
 C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
 C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
@@ -643,3 +641,5 @@ C:\Users\rafan\OneDrive\MyStore\MyStore\obj\Debug\net6.0\MyStore.csproj.CopyComp
 C:\Users\rafan\OneDrive\MyStore\MyStore\obj\Debug\net6.0\MyStore.dll
 C:\Users\rafan\OneDrive\MyStore\MyStore\obj\Debug\net6.0\ref\MyStore.dll
 C:\Users\rafan\OneDrive\MyStore\MyStore\obj\Debug\net6.0\MyStore.pdb
+C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\rafan\OneDrive\MyStore\MyStore\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll

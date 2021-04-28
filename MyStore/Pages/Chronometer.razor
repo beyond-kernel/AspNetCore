@@ -1,0 +1,57 @@
+﻿@page "/chronometer"
+@using System.Diagnostics
+@using System.Threading
+
+<h1>Chronometer</h1>
+
+<p>Time elapsed: @timeElapsed</p>
+
+<p>
+<button class="btn btn-primary" @onclick="StartChronometer">Start</button>
+<button class="btn btn-primary" @onclick="PauseChronometer">Pause</button>
+<button class="btn btn-primary" @onclick="StopChronometer">Stop</button>
+<button class="btn btn-primary" @onclick="MarkerChronometer">Marker</button>
+</p>
+
+@foreach (var item in markers)
+{
+    @if (item != null)
+    {
+        <p>Marked timing @markers.IndexOf(item): @item</p>
+    }
+}
+
+
+@code {
+
+    private string timeElapsed = "00:00:00.00";
+    private List<string> markers = new List<string>();
+    private Stopwatch stopWatch = new Stopwatch();
+
+    private void StartChronometer()
+    {
+        stopWatch.Start();
+    }
+
+    private void PauseChronometer()
+    {
+        stopWatch.Stop();
+        timeElapsed = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",
+        stopWatch.Elapsed.Hours, stopWatch.Elapsed.Minutes, 
+        stopWatch.Elapsed.Seconds, stopWatch.Elapsed.Milliseconds / 10);
+    } 
+
+    private void StopChronometer()
+    {
+        stopWatch.Reset();
+        timeElapsed = "00:00:00.00";
+        markers = new List<string>();
+    }
+
+    private void MarkerChronometer()
+    {
+        PauseChronometer();
+        markers.Add(timeElapsed);   
+        StartChronometer();
+    }
+}
